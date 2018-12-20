@@ -1,7 +1,7 @@
 # Textual-Entailment-via-Tensorflow
 
 
-An LSTM solution for detecting textual entailment given two sentences, based on SemEval 2014 Task 1. 
+An LSTM solution for detecting textual entailment given two sentences, based on SemEval 2014 [Task 1](http://alt.qcri.org/semeval2014/task1/). 
 
 
 ### Prerequisites
